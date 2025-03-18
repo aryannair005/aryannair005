@@ -1,0 +1,149 @@
+/* Reset & Base Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: aliceblue;
+  font-family: "Roboto", sans-serif;
+  color: #333;
+}
+
+/* Layout */
+.main-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Navigation Bar */
+.nav-bar {
+  height: 3.5rem;
+  width: 100%;
+  background-color: #1b1b1b;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 1.5rem;
+}
+
+.nav-right ul {
+  display: flex;
+  list-style: none;
+  gap: 1.5rem;
+}
+
+.nav-right ul li {
+  color: white;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.nav-right ul li:hover {
+  color: #00adb5;
+}
+
+/* Contact Button */
+.contact-btn {
+  height: 2.1rem;
+  width: 6rem;
+  border-radius: 20px;
+  border: none;
+  background-color: #00adb5;
+  color: white;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.contact-btn:hover {
+  background-color: #019aa3;
+}
+
+/* Main Body */
+.main-body {
+  display: flex;
+  flex: 1;
+  background-color: aliceblue;
+}
+
+/* Text Section */
+.main-content {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 3rem;
+}
+
+.main-text-content {
+  background-color: #333;
+  padding: 2rem;
+  border-radius: 10px;
+  color: white;
+}
+
+.main-text-content h1 {
+  margin-bottom: 1rem;
+  font-size: 2rem;
+}
+
+.main-text-content p {
+  margin: 1rem 0;
+  line-height: 1.6;
+}
+
+/* Button Group */
+.button-group {
+  margin-top: 1.5rem;
+}
+
+.hire,
+.whatsapp {
+  height: 2.1rem;
+  width: 8rem;
+  border-radius: 20px;
+  border: none;
+  margin-right: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.hire {
+  background-color: #00adb5;
+  color: white;
+}
+
+.hire:hover {
+  background-color: #019aa3;
+}
+
+.whatsapp {
+  background-color: #25d366;
+  color: white;
+}
+
+.whatsapp:hover {
+  background-color: #20c05d;
+}
+
+/* Image Section */
+.main-img {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: aliceblue;
+  font-size: 1.5rem;
+  color: #777;
+  border-left: 2px solid #ccc;
+}
+
+.logo a {
+  text-decoration: none;
+  color: white;
+  margin: 1rem;
+}
