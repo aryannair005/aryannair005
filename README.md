@@ -2,86 +2,22 @@
 
 ### Backend Developer | Node.js | JavaScript | MERN
 
-Computer Science student focused on **backend development and software engineering**. I build RESTful APIs, authentication systems, database-driven applications, and scalable backend services using **Node.js, Express.js, MongoDB, and Redis**.
+Computer Science student focused on **backend development and software engineering**. I build REST APIs, authentication systems, database-driven applications, and scalable backend services.
 
-I’m interested in understanding how reliable software systems are designed — from API architecture and database design to caching, authentication, asynchronous processing, and service-to-service communication.
+### Tech Stack
 
-### Technical Skills
+**Backend:** Node.js, Express.js, REST APIs, Redis, Microservices  
+**Databases:** MongoDB, SQL  
+**Frontend:** React.js, JavaScript, Tailwind CSS  
+**Languages:** JavaScript, Java, Python  
+**AI:** Machine Learning, LLMs, LangChain, LangGraph  
+**Tools:** Git, GitHub, Docker, AWS
 
-**Backend**
-- Node.js
-- Express.js
-- REST APIs
-- Authentication & Authorization
-- JWT
-- Redis
-- Microservices
+### Currently
 
-**Databases**
-- MongoDB
-- Mongoose
-- SQL
+- Building backend-focused applications with **Node.js & Express**
+- Exploring **Redis, microservices, and system design**
+- Building **AI-powered applications and agents**
+- Practicing **DSA with Java**
 
-**Frontend**
-- React.js
-- JavaScript
-- HTML
-- CSS
-- Tailwind CSS
-
-**AI / Data**
-- Python
-- Machine Learning
-- Deep Learning
-- LLMs
-- LangChain
-- LangGraph
-- RAG
-
-**Languages**
-- JavaScript
-- Java
-- Python
-
-**Tools & Platforms**
-- Git & GitHub
-- Docker
-- AWS
-- Vercel
-- Render
-
-### What I’m Currently Working On
-
-- Building production-oriented backend applications with **Node.js and Express**
-- Exploring **Redis, caching, queues, and microservice architectures**
-- Improving my understanding of **system design and scalable backend systems**
-- Building applications that integrate **LLMs and AI agents** with traditional backend services
-- Strengthening **DSA and problem-solving** using Java
-
-### Selected Projects
-
-**AI-Powered Interview Platform**  
-MERN application integrating AI capabilities for interview preparation and evaluation.
-
-**AI Code Editor / IDE**  
-An experimental developer platform combining MERN, Redis, LangGraph, and microservices.
-
-**Bank Management & Ledger API**  
-Backend system built with Node.js, Express.js, MongoDB, authentication, and transaction management.
-
-**AI Agents with LangGraph**  
-Experiments with tool-calling, agent workflows, LLMs, and external services.
-
-### Engineering Interests
-
-`Backend Engineering` · `System Design` · `Distributed Systems` · `Databases` · `Caching` · `APIs` · `AI Engineering`
-
-### Currently Learning
-
-**Backend Engineering → System Design → Distributed Systems → Production Architecture**
-
----
-
-### Connect
-
-[GitHub](https://github.com/aryannair005)
+> Building systems, learning how they work, and improving every day.
